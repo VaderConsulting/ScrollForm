@@ -1,6 +1,6 @@
 # ScrollForm
 
-VB6 working copy of `ScrollForm` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: ScrollingForm. `VersionCompanyName`: www.TheScarms.com.
+VB6 scrollable-form sample from TheScarms (`ScrollingForm`): a tall contact form whose controls move with a vertical scrollbar (`pScrollForm`). Open `ScrollingForm.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,23 +10,4 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `ScrollingForm` (`ScrollingForm.vbp`) | VB6 | WinForms exe | ScrollingForm |
-
-## How to open
-
-Open the `.vbp` in Visual Basic 6.0 IDE:
-- `ScrollingForm.vbp`
-
-## Requirements
-
-- Visual Basic 6.0 IDE
-
-## Attribution and provenance
-
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ScrollForm`.
-Company names in project files: www.TheScarms.com.
-Third-party attribution: TheScarms.com. See `THIRD_PARTY_NOTICES.md`.
-
-## License
-
-Third-party code remains under its original terms (or none, where none were supplied). See `THIRD_PARTY_NOTICES.md`. Do not treat this tree as VaderConsulting original MIT-licensed work.
+| `ScrollingForm` (`ScrollingForm.vbp`) | VB6 | WinForms exe | VScrollBar-driven scrollable form demo |
