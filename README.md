@@ -11,3 +11,20 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `ScrollingForm` (`ScrollingForm.vbp`) | VB6 | WinForms exe | VScrollBar-driven scrollable form demo |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `ScrollingForm.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+
+## Attribution and provenance
+
+TheScarms sample (`ScrollingForm`). Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ScrollForm`.
+
+## License
+
+Original TheScarms terms apply where present. MIT © 2026 VaderConsulting for Dave Robinson's working-copy packaging. See `LICENSE`.
