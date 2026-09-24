@@ -23,7 +23,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-TheScarms sample (`ScrollingForm`). Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ScrollForm`.
+TheScarms sample (`ScrollingForm`). Working copy from my Historical Dev folder `VB/Old/ScrollForm`.
 
 ## License
 
