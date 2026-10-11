@@ -27,4 +27,4 @@ TheScarms sample (`ScrollingForm`). Working copy from my Historical Dev folder `
 
 ## License
 
-Original TheScarms terms apply where present. MIT © 2026 VaderConsulting for Dave Robinson's working-copy packaging. See `LICENSE`.
+Original TheScarms terms apply where present. MIT © 2026 Vader Consulting for Dave Robinson's working-copy packaging. See `LICENSE`.
